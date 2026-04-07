@@ -140,7 +140,7 @@ infokita-app/
           <img src="https://raw.githubusercontent.com/Ryukiken/Ryukiken/main/download.gif" width="100px" alt="Kururu GIF 4" />
         </td>
         <td style="padding: 10px; border: none;">
-          <img src="https://raw.githubusercontent.com/Ryukiken/Ryukiken/main/Kururin%20Kuru%20Kuru%20GIF%20-%20Kururin%20Kuru%20Kuru%20Herta%20-%20Descubre%20y%20comparte%20GIF.gif" width="100px" alt="Kururu GIF 5" />
+          <img src="https://github.com/Ryukiken/Ryukiken/blob/main/download%20(1).gif" width="100px" alt="Kururu GIF 5" />
         </td>
       </tr>
     </table>
