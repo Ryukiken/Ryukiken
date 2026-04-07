@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Ryukiken/Ryukiken/main/Black%20and%20White%20PC%20Wallpaper%204K.jfif" alt="Ryukiken Banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/Ryukiken/Ryukiken/main/Black%20and%20White%20PC%20Wallpaper%204K.jfif" alt="Ryukiken Banner" width="75%" />
 </p>
 
 <div align="center">
