@@ -89,9 +89,6 @@ infokita-app/
 
   <br>
 
-  <img src="https://raw.githubusercontent.com/Ryukiken/Ryukiken/main/hr.svg" width="100%">
-
-  <br>
 
   <p><i>"Membangun ketahanan melalui kode..."</i></p>
 
