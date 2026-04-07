@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/USER_CONTENT_LINK_KE_GAMBAR_DI_BAWAH/raw/main/image_0.png" width="100%" alt="Banner Anime Game Kustom" />
+  <img src="https://github.com/Wallpaper PC Hitam Putih 4K.jfif/raw/main/image_0.png" width="100%" alt="Banner Anime Game Kustom" />
 </p>
 
 <div align="center">
