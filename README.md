@@ -8,7 +8,7 @@
 <br>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Ryukiken/Ryukiken/main/garis%20warna](https://github.com/Ryukiken/Ryukiken/blob/main/singularity.py" width="100%" height="8px" />
+  <img src="https://raw.githubusercontent.com/Ryukiken/Ryukiken/main/garis%20warna" width="100%" height="8px" />
 </div>
 
 <br>
@@ -35,15 +35,6 @@
 
 <br>
 
-<div align="center">
-  <h3><b>💻 My Digital Arsenal</b></h3>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,react,python,java,figma,github,git,linux,tailwind&theme=dark" />
-  </a>
-</div>
-
-<br>
-
 <table align="center" width="100%" style="border-collapse: collapse;">
   <tr>
     <td width="50%" valign="top" style="border: 1px solid #30363d; padding: 15px; border-radius: 10px;">
@@ -62,16 +53,15 @@ amazing-adventure/
     </td>
     <td width="50%" valign="top" style="border: 1px solid #30363d; padding: 15px; border-radius: 10px;">
       <b>💡 Core Philosophy</b><br>
-      <pre lang="javascript">
-// Building the future...
-const ryukiken = {
-  status: "Coding",
-  focus: ["GameDev", "Web"],
-  motto: "Clean code, Happy life"
-};
-
-console.log(ryukiken.motto);
-      </pre>
+      <br>
+      <div align="center">
+        <code><b>STAY HUNGRY, STAY FOOLISH</b></code><br>
+        <code><b>CODE WITH PASSION</b></code><br>
+        <br>
+        <img src="https://raw.githubusercontent.com/Ryukiken/Ryukiken/main/garis%20warna" width="100%" height="5px" />
+        <br>
+        <p><i>"Membangun ketahanan melalui kode..."</i></p>
+      </div>
     </td>
   </tr>
 </table>
@@ -80,6 +70,15 @@ console.log(ryukiken.motto);
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Ryukiken/Ryukiken/main/garis%20warna" width="100%" height="8px" />
+</div>
+
+<br>
+
+<div align="center">
+  <h3><b>💻 My Digital Arsenal</b></h3>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,react,python,java,figma,github,git,linux,tailwind&theme=dark" />
+  </a>
 </div>
 
 <br>
