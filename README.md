@@ -112,7 +112,7 @@ amazing-adventure/
 
 <div align="center">
   <p><i>Current Vibe: Working Hard...</i></p>
-  <img src="https://raw.githubusercontent.com/Ryukiken/Ryukiken/main/mioffice_animation_mioffice.gif" width="60%" alt="Mioffice Animation">
+  <img src="https://raw.githubusercontent.com/Ryukiken/Ryukiken/main/mioffice_animation_mioffice.gif" width="100%" alt="Mioffice Animation">
 </div>
 
 <br>
