@@ -1,86 +1,104 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Welcome+To+My+Profile" alt="Welcome Text" />
-  
-  <img align="right" src="https://raw.githubusercontent.com/Ryukiken/Ryukiken/main/Kururin%20Kuru%20Kuru%20GIF%20-%20Kururin%20Kuru%20Kuru%20Herta%20-%20Descubre%20y%20comparte%20GIF.gif" height="90px" width="90px">
-  <img align="left" src="https://raw.githubusercontent.com/Ryukiken/Ryukiken/main/Kururin%20Kuru%20Kuru%20GIF%20-%20Kururin%20Kuru%20Kuru%20Herta%20-%20Descubre%20y%20comparte%20GIF.gif" height="90px" width="90px">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&weight=400&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=WELCOME+TO+RYUKIKEN+QUEST;LEVEL+UP+YOUR+CODE;GAME+%26+WEB+DEVELOPER" alt="Ryukiken Welcome" />
+
+  <img align="right" src="https://raw.githubusercontent.com/Ryukiken/Ryukiken/main/Kururin%20Kuru%20Kuru%20GIF%20-%20Kururin%20Kuru%20Kuru%20Herta%20-%20Descubre%20y%20comparte%20GIF.gif" height="80px" alt="Kururin Right" />
+  <img align="left" src="https://raw.githubusercontent.com/Ryukiken/Ryukiken/main/Kururin%20Kuru%20Kuru%20GIF%20-%20Kururin%20Kuru%20Kuru%20Herta%20-%20Descubre%20y%20comparte%20GIF.gif" height="80px" alt="Kururin Left" />
 </div>
+
+<br>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+  <img src="https://raw.githubusercontent.com/Ryukiken/Ryukiken/main/garis%20warna" width="100%" height="8px" />
 </div>
+
+<br>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=Ryukiken;Mahasiswa+IT+%7C+Game+Dev;Building+Amazing+Adventure;Always+Learning+New+Tech" alt="Typing Animation">
+  <h3 align="center">🔖 <b>Software & Game Developer Enthusiast</b></h3>
+  <p align="center">
+    🎓 IT Student | 🎮 HTML5 & JS Game Dev | 💻 Web Artisan <br>
+    <i>"Transforming complex logic into interactive digital adventures."</i>
+  </p>
 </div>
 
-<h3 align="center">🔖 A Passionate Software & Game Developer based in Indonesia</h3>
-<div align="center">
-  <h3>☘️ Chasing a degree in informatics engineering while exploring the intricacies of coding</h3>
-</div>
-<div align="center">
-  <h3>✨ Turning ideas into reality through clean and creative code</h3>
-</div>
+<br>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+  <img src="https://raw.githubusercontent.com/Ryukiken/Ryukiken/main/Black%20and%20White%20PC%20Wallpaper%204K.jfif" width="100%" style="border-radius: 10px;" /> 
 </div>
 
-</br>
+<br>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Ryukiken/Ryukiken/main/Black%20and%20White%20PC%20Wallpaper%204K.jfif" width="100%"> 
+  <img src="https://raw.githubusercontent.com/Ryukiken/Ryukiken/main/garis%20warna" width="100%" height="8px" />
 </div>
 
-</br>
+<br>
 
 <div align="center">
-  <img height="40" src="https://skillicons.dev/icons?i=html,css,js,nodejs,react,python,java,figma,github,git,linux&theme=dark" />
+  <h3><b>💻 My Digital Arsenal</b></h3>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,react,python,java,figma,github,git,linux,tailwind&theme=dark" />
+  </a>
 </div>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
-</div>
+<br>
 
-</br>
-
-<table align="center">
-<tr>
-<td width="50%" valign="top">
-
-### :open_file_folder: Project Structure (Amazing Adventure)
-
-<pre>
+<table align="center" width="100%" style="border-collapse: collapse;">
+  <tr>
+    <td width="50%" valign="top" style="border: 1px solid #30363d; padding: 15px; border-radius: 10px;">
+      <b>📁 Active Quest: Amazing Adventure</b><br>
+      <pre>
 amazing-adventure/
 ├── assets/
 │   ├── nature_planet/
-│   ├── ocean_planet/
 │   └── space_planet/
 ├── src/
 │   ├── entities/
-│   │   └── main_character.js
-│   ├── engine/
-│   └── utils/
+│   └── engine/
 ├── index.html
-├── style.css
-└── README.md              
-</pre>
-</td>
-<td width="50%" valign="top">
+└── style.css
+      </pre>
+    </td>
+    <td width="50%" valign="top" style="border: 1px solid #30363d; padding: 15px; border-radius: 10px;">
+      <b>💡 Core Philosophy</b><br>
+      <pre lang="javascript">
+// Building the future...
+const ryukiken = {
+  status: "Coding",
+  focus: ["GameDev", "Web"],
+  motto: "Clean code, Happy life"
+};
 
-### :bulb: Core Philosophy
+console.log(ryukiken.motto);
+      </pre>
+    </td>
+  </tr>
+</table>
 
-```javascript
-// Membangun masa depan melalui baris kode
-const ryukikenProjects = [
-  "Amazing Adventure (Game)",
-  "Jadwalin (Schedule App)",
-  "Quizland (Quiz App)"
-];
+<br>
 
-function deployDream(projects) {
-  projects.forEach(p => {
-    console.log(`🚀 Deploying: ${p}`);
-  });
-}
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Ryukiken/Ryukiken/main/garis%20warna" width="100%" height="8px" />
+</div>
 
-deployDream(ryukikenProjects);
+<br>
+
+<div align="center">
+  <h3><b>📊 Player Statistics</b></h3>
+  <img src="https://github-readme-stats.vercel.app/api?username=Ryukiken&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0D1117" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ryukiken&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" width="41%" />
+</div>
+
+<br>
+
+<div align="center">
+  <p><i>Current Vibe: Working Hard...</i></p>
+  <img src="https://raw.githubusercontent.com/Ryukiken/Ryukiken/main/mioffice_animation_mioffice.gif" width="60%" alt="Mioffice Animation" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Ryukiken&color=36BCF7&style=pixel" alt="Profile Views" />
+</div>
