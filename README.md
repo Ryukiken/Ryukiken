@@ -222,9 +222,9 @@ infokita-app/
 
   <div align="center">
 
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Ryukiken&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%" />
+   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Ryukiken&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%" />
 
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Ryukiken&layout=compact&theme=radical&hide_border=true" width="41%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Ryukiken&layout=compact&theme=radical&hide_border=true" width="41%" />
 
   </div>
 
