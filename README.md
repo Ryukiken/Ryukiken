@@ -97,9 +97,9 @@ amazing-adventure/
 </table>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Ryukiken/Ryukiken/main/hr.svg" width="100%">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ryukiken&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%" alt="Ryukiken's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ryukiken&layout=compact&theme=radical&hide_border=true" width="41%" alt="Ryukiken's Top Languages" />
 </div>
-
 </br>
 
 <div align="center">
