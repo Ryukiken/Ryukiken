@@ -2,23 +2,17 @@
 
   <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=22&pause=1000&color=8CC2F7&center=true&vCenter=true&width=600&lines=WELCOME+TO+RYUKIKEN+QUEST;LEVEL+UP+YOUR+CODE;GAME+%26+WEB+DEVELOPER" />
 
-  
-
   <img align="right" src="https://raw.githubusercontent.com/Ryukiken/Ryukiken/main/Kururin%20Kuru%20Kuru%20GIF%20-%20Kururin%20Kuru%20Kuru%20Herta%20-%20Descubre%20y%20comparte%20GIF.gif" height="90px" width="90px">
 
   <img align="left" src="https://raw.githubusercontent.com/Ryukiken/Ryukiken/main/Kururin%20Kuru%20Kuru%20GIF%20-%20Kururin%20Kuru%20Kuru%20Herta%20-%20Descubre%20y%20comparte%20GIF.gif" height="90px" width="90px">
 
 </div>
 
-
-
 <div align="center">
 
   <img src="https://raw.githubusercontent.com/Ryukiken/Ryukiken/main/hr.svg" width="100%">
 
 </div>
-
-
 
 <div align="center">
 
@@ -26,65 +20,36 @@
 
 </div>
 
-
-
 <h3 align="center">🔖 A Passionate Software Developer based in Indonesia</h3>
 
-
-
 <div align="center">
-
   <h3>☘️ Chasing a degree in informatics engineering while exploring coding</h3>
-
   <h3>✨ Turning ideas into reality through clean and creative code</h3>
-
 </div>
 
-
-
 <div align="center">
-
   <img src="https://raw.githubusercontent.com/Ryukiken/Ryukiken/main/hr.svg" width="100%">
-
 </div>
-
-
 
 <br>
 
-
-
 <div align="center">
-
   <img src="https://github.com/Ryukiken/Ryukiken/blob/main/I'll%20just%20leave%20some%20pixel%20art%20GIFs%20here_%20-%20Album%20on%20Imgur.gif" width="70%"> 
-
 </div>
-
-
 
 <br>
 
-
-
 <div align="center">
-
   <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,react,python,java,figma,github,git,linux,tailwind&theme=dark" />
 
 </div>
 
-
-
 <div align="center">
-
   <img src="https://raw.githubusercontent.com/Ryukiken/Ryukiken/main/hr.svg" width="100%">
 
 </div>
 
-
-
 <br>
-
-
 
 <table align="center" width="100%">
 
@@ -92,11 +57,7 @@
 
 <td width="50%" valign="top">
 
-
-
 ### 📁 Project Structure (InfoKita)
-
-
 
 <pre>
 
@@ -124,17 +85,11 @@ infokita-app/
 
 </pre>
 
-
-
 </td>
 
 <td width="50%" valign="top">
 
-
-
 ### 💡 Core Philosophy
-
-
 
 <div align="center">
 
