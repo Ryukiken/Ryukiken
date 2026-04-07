@@ -134,6 +134,7 @@ infokita-app/
   <img src="https://komarev.com/ghpvc/?username=Ryukiken&color=blueviolet&style=pixel">
 </div>
 
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=Ryukiken&label=Profile%20Views&color=00BFFF&style=flat-square" />
 </p>
 
