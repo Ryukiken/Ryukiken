@@ -226,6 +226,12 @@ infokita-app/
 </p>
 
 <div align="center">
+
+  <img src="https://raw.githubusercontent.com/Ryukiken/Ryukiken/main/hr.svg" width="100%">
+
+  <br>
+
+<div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Varela+Round&weight=600&size=40&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=T+H+A+N+K++Y+O+U+!" alt="Big Thank You Animation" />
   
   <br><br>
