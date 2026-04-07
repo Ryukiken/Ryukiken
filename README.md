@@ -1,93 +1,86 @@
 <div align="center">
-  <img src="PASTE_LINK_RAW_GAMBAR_BANNER-WELCOME_GIF_DISINI.gif" width="100%" alt="Ryukiken's Animated Welcome Banner" />
-
-  <p align="center">
-    <img src="https://raw.githubusercontent.com/Ryukiken/Ryukiken/main/Kururin%20Kuru%20Kuru%20GIF%20-%20Kururin%20Kuru%20Kuru%20Herta%20-%20Descubre%20y%20comparte%20GIF.gif" width="45" align="center" alt="Kururin Pixel Art GIF" />
-  </p>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Welcome+To+My+Profile" alt="Welcome Text" />
+  
+  <img align="right" src="https://raw.githubusercontent.com/Ryukiken/Ryukiken/main/Kururin%20Kuru%20Kuru%20GIF%20-%20Kururin%20Kuru%20Kuru%20Herta%20-%20Descubre%20y%20comparte%20GIF.gif" height="90px" width="90px">
+  <img align="left" src="https://raw.githubusercontent.com/Ryukiken/Ryukiken/main/Kururin%20Kuru%20Kuru%20GIF%20-%20Kururin%20Kuru%20Kuru%20Herta%20-%20Descubre%20y%20comparte%20GIF.gif" height="90px" width="90px">
 </div>
-
-<br>
 
 <div align="center">
-  <h3>📌 <b>Selamat Datang!</b></h3>
-  <p>Mahasiswa IT yang berbasis di Indonesia, fokus pada <b>Web & Game Development</b>.</p>
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 </div>
-
-<br>
 
 <div align="center">
-  <h3><b>💻 Code Core Set</b></h3>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,react,python,java,figma,github,git,vercel&theme=dark" />
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=Ryukiken;Mahasiswa+IT+%7C+Game+Dev;Building+Amazing+Adventure;Always+Learning+New+Tech" alt="Typing Animation">
 </div>
 
-<br>
+<h3 align="center">🔖 A Passionate Software & Game Developer based in Indonesia</h3>
+<div align="center">
+  <h3>☘️ Chasing a degree in informatics engineering while exploring the intricacies of coding</h3>
+</div>
+<div align="center">
+  <h3>✨ Turning ideas into reality through clean and creative code</h3>
+</div>
 
-<table align="center" width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <b>📁 Struktur Proyek (The Web Atlas)</b><br>
-      <pre>
-web-atlas-rpg/
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+</div>
+
+</br>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Ryukiken/Ryukiken/main/Black%20and%20White%20PC%20Wallpaper%204K.jfif" width="100%"> 
+</div>
+
+</br>
+
+<div align="center">
+  <img height="40" src="https://skillicons.dev/icons?i=html,css,js,nodejs,react,python,java,figma,github,git,linux&theme=dark" />
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+</div>
+
+</br>
+
+<table align="center">
+<tr>
+<td width="50%" valign="top">
+
+### :open_file_folder: Project Structure (Amazing Adventure)
+
+<pre>
+amazing-adventure/
 ├── assets/
-│   ├── images/
-│   └── icons/
+│   ├── nature_planet/
+│   ├── ocean_planet/
+│   └── space_planet/
 ├── src/
-│   ├── engine.js
-│   └── components/
+│   ├── entities/
+│   │   └── main_character.js
+│   ├── engine/
+│   └── utils/
 ├── index.html
-└── style.css
-      </pre>
-    </td>
-    <td width="50%" valign="top">
-      <b>💡 Filosofi Inti</b><br>
-      <pre lang="javascript">
-const buildProject = (steps) => {
-  steps.forEach(step => {
-    console.log(`[Memuat] ${step}...`);
+├── style.css
+└── README.md              
+</pre>
+</td>
+<td width="50%" valign="top">
+
+### :bulb: Core Philosophy
+
+```javascript
+// Membangun masa depan melalui baris kode
+const ryukikenProjects = [
+  "Amazing Adventure (Game)",
+  "Jadwalin (Schedule App)",
+  "Quizland (Quiz App)"
+];
+
+function deployDream(projects) {
+  projects.forEach(p => {
+    console.log(`🚀 Deploying: ${p}`);
   });
-};
+}
 
-buildProject([
-  "Desain UI & Game Assets",
-  "Logika Permainan",
-  "Testing & Kolaborasi Tim"
-]);
-      </pre>
-    </td>
-  </tr>
-</table>
-
-<br>
-
-<div align="center">
-  <h3><b>📊 Statistik GitHub Ryukiken</b></h3>
-  <img src="https://github-readme-stats.vercel.app/api?username=Ryukiken&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0D1117&title_color=FF1493&icon_color=FF1493&text_color=FFFFFF" alt="Ryukiken's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ryukiken&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=36BCF7&icon_color=36BCF7&text_color=FFFFFF" alt="Ryukiken's Top Languages" width="48%" />
-</div>
-
-<br>
-
-<div align="center">
-  <h3><b>🐍 Misi Tamu: Perjalanan Kontribusi</b></h3>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ryukiken/Ryukiken/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ryukiken/Ryukiken/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/Ryukiken/Ryukiken/output/github-contribution-grid-snake.svg" width="100%">
-  </picture>
-</div>
-
----
-
-<div align="center">
-  <p>Jangan pernah menyerah pada Quest Anda! <img src="https://api.iconify.design/twemoji/party-popper.svg?height=20" width="20" alt="Party Popper" /> </p>
-  <img src="https://api.iconify.design/openmoji/otaku.svg?height=50" width="50" alt="Ikon Otaku" />
-</div>
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ryukiken/Ryukiken/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ryukiken/Ryukiken/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Ryukiken/Ryukiken/output/github-contribution-grid-snake.svg" width="100%">
-  </picture>
-</div>
+deployDream(ryukikenProjects);
