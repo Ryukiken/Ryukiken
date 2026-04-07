@@ -27,7 +27,6 @@
 <br>
 
 <div align="center">
-  <p><i>Current Vibe: Developing InfoKita...</i></p>
   <img src="https://raw.githubusercontent.com/Ryukiken/Ryukiken/main/mioffice_animation_mioffice.gif" width="70%"> 
 </div>
 
