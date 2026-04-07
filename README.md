@@ -225,3 +225,37 @@ infokita-app/
 
 </p>
 
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Varela+Round&weight=600&size=40&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=T+H+A+N+K++Y+O+U+!" alt="Big Thank You Animation" />
+  
+  <br><br>
+
+  <table align="center" style="border-collapse: collapse; border: none;">
+    <tr>
+      <td style="padding: 10px; border: none;">
+        <img src="https://raw.githubusercontent.com/Ryukiken/Ryukiken/main/Kururin%20Kuru%20Kuru%20GIF%20-%20Kururin%20Kuru%20Kuru%20Herta%20-%20Descubre%20y%20comparte%20GIF.gif" width="70px" alt="Kururu GIF 1" />
+      </td>
+      <td style="padding: 10px; border: none;">
+        <img src="https://raw.githubusercontent.com/Ryukiken/Ryukiken/main/Kururin%20Kuru%20Kuru%20GIF%20-%20Kururin%20Kuru%20Kuru%20Herta%20-%20Descubre%20y%20comparte%20GIF.gif" width="70px" alt="Kururu GIF 2" />
+      </td>
+      <td style="padding: 10px; border: none;">
+        <img src="https://raw.githubusercontent.com/Ryukiken/Ryukiken/main/Kururin%20Kuru%20Kuru%20GIF%20-%20Kururin%20Kuru%20Kuru%20Herta%20-%20Descubre%20y%20comparte%20GIF.gif" width="70px" alt="Kururu GIF 3" />
+      </td>
+      <td style="padding: 10px; border: none;">
+        <img src="https://raw.githubusercontent.com/Ryukiken/Ryukiken/main/Kururin%20Kuru%20Kuru%20GIF%20-%20Kururin%20Kuru%20Kuru%20Herta%20-%20Descubre%20y%20comparte%20GIF.gif" width="70px" alt="Kururu GIF 4" />
+      </td>
+      <td style="padding: 10px; border: none;">
+        <img src="https://raw.githubusercontent.com/Ryukiken/Ryukiken/main/Kururin%20Kuru%20Kuru%20GIF%20-%20Kururin%20Kuru%20Kuru%20Herta%20-%20Descubre%20y%20comparte%20GIF.gif" width="70px" alt="Kururu GIF 5" />
+      </td>
+    </tr>
+  </table>
+  <p>Jangan pernah menyerah pada Quest Anda! <img src="https://api.iconify.design/twemoji/party-popper.svg?height=20" width="20" alt="Popper" /> </p>
+  <img src="https://api.iconify.design/openmoji/otaku.svg?height=50" width="50" alt="Ikon Otaku" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Ryukiken&color=36BCF7&style=pixel" alt="Profile Views" />
+</div>
+
